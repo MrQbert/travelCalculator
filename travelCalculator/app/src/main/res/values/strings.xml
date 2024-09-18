@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">travelCalculator</string>
+    <string name="header">Travel Expenses From Chicago</string>
+    <string name="milesToDestination">Miles to Destination</string>
+    <string name="mpgInput">Miles Per Gallon</string>
+    <string name="gasCostInput">Gas Cost</string>
+</resources>
